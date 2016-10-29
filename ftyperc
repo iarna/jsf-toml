@@ -1,0 +1,4 @@
+*.toml
+-pound_comment
+-semi_comment
+-syntax toml
